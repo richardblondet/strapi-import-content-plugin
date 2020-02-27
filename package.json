@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-import-content",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "Import Content",
+    "icon": "plug",
+    "description": "Description of import-content plugin."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Richard Blondet",
+    "email": "developer@richardblondet.com",
+    "url": "http://richardblondet.com"
+  },
+  "maintainers": [
+    {
+      "name": "Richard Blondet",
+      "email": "developer@richardblondet.com",
+      "url": "http://richardblondet.com"
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
