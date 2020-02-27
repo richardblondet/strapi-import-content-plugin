@@ -16,11 +16,12 @@ Install headless CMS [Strapi](https://strapi.io/)
 
 ```
 cd my-strapi-project/plugins
-git clone this-repo-name import-content
+git clone https://github.com/richardblondet/strapi-import-content-plugin.git import-content
 cd import-content && npm install
-cd ../
-npm run setup --plugins
 ```
+
+Go to your strapi root folder, [build and run your installation](https://strapi.io/documentation/3.0.0-beta.x/cli/CLI.html#strapi-develop-dev)
+
 
 _\* the last step takes a notoriously long time..._
 
